@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on SwiftUI IOS
+- 🔭 I’m currently working on Laravel | Flutter | Android | IOS(SwiftUI)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Flutter
