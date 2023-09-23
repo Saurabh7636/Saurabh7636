@@ -1,11 +1,6 @@
 # 💫About Me :
-- 🔭 I’m currently working on Laravel | Flutter | Android | IOS(SwiftUI)
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about SwiftUI or any technical stuff
-- 📫 How to reach me: Instagram - @official_saurabh_singh
-- 😄 Pronouns: He/His
+
+Hi, my name is Saurabh Singh. I am a highly skilled software engineer with experience in various technologies and programming languages. I have a Master's in Computer Application and a Bachelor's in Computer Application. I have worked as a Software Engineer, Backend and IOS Developer, and Full Stack Android and web developer. I have experience in technologies such as Amazon Web Services, Laravel, Nodejs, Android, Swift, and Javascript. I am proficient in programming languages such as PHP, Java, Kotlin, and Swift. I am also skilled in source control, editors, IDE's, payment gateways, and databases. I am fluent in English, Hindi, and Punjabi.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official_saurabh_singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-1998) 
