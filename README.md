@@ -1,6 +1,26 @@
 # 💫About Me :
 
-Hi, my name is Saurabh Singh. I am a highly skilled software engineer with experience in various technologies and programming languages. I have a Master's in Computer Application and a Bachelor's in Computer Application. I have worked as a Software Engineer, Backend and IOS Developer, and Full Stack Android and web developer. I have experience in technologies such as Amazon Web Services, Laravel, Nodejs, Android, Swift, and Javascript. I am proficient in programming languages such as PHP, Java, Kotlin, and Swift. I am also skilled in source control, editors, IDE's, payment gateways, and databases. I am fluent in English, Hindi, and Punjabi.
+## Saurabh Singh - Software Engineer
+
+Highly skilled software engineer with experience in various technologies and programming languages. Proven ability to work as a full-stack developer across web and mobile platforms. 
+
+**Education**
+
+* Master's in Computer Application
+* Bachelor's in Computer Application
+
+**Technical Skills**
+
+* **Technologies:**  AWS, Laravel, Node.js, Android, Swift, Javascript
+* **Programming Languages:**  PHP, Java, Kotlin, Swift
+* **Development Tools:**  Source Control, Editors, IDEs
+* **Additional Skills:**  Payment Gateways, Databases
+
+**Languages**
+
+* English (fluent)
+* Hindi (fluent)
+* Punjabi (fluent)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scribbles_of_saurabh)
