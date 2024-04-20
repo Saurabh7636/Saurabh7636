@@ -4,11 +4,6 @@
 
 Highly skilled software engineer with experience in various technologies and programming languages. Proven ability to work as a full-stack developer across web and mobile platforms. 
 
-**Education**
-
-* Master's in Computer Application
-* Bachelor's in Computer Application
-
 **Technical Skills**
 
 * **Technologies:**  AWS, Laravel, Node.js, Android, Swift, Javascript
