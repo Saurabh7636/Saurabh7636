@@ -4,23 +4,11 @@
 
 Highly skilled software engineer with experience in various technologies and programming languages. Proven ability to work as a full-stack developer across web and mobile platforms. 
 
-**Technical Skills**
-
-* **Technologies:**  AWS, Laravel, Node.js, Android, Swift, Javascript
-* **Programming Languages:**  PHP, Java, Kotlin, Swift
-* **Development Tools:**  Source Control, Editors, IDEs
-* **Additional Skills:**  Payment Gateways, Databases
-
-**Languages**
-
-* English (fluent)
-* Hindi (fluent)
-* Punjabi (fluent)
-
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scribbles_of_saurabh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-1998)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/thakurcoder)
+[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://youtube.com/@thakurcoder)
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/saurabh7636)
 
 # 💻Tech Stack
