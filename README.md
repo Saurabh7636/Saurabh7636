@@ -8,7 +8,7 @@ Highly skilled software engineer with experience in various technologies and pro
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scribbles_of_saurabh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-1998)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/thakurcoder)
-[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://youtube.com/@thakurcoder)
+[![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@thakurcoder)
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/saurabh7636)
 
 # 💻Tech Stack
